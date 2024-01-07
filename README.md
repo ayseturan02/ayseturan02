@@ -1,12 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ............
-- ⚡ Fun fact: .....................
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ayşe .</h2>
 
 ###
 
