@@ -42,6 +42,8 @@
   </a>
 </div>
 
+
+![snake gif](https://github.com/ayseturan02/ayseturan02/blob/output/github-contribution-grid-snake.gif)
 ###
 
 
